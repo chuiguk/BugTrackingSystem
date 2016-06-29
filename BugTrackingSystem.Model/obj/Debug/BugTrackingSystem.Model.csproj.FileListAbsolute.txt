@@ -1,0 +1,5 @@
+C:\Users\erchi\Desktop\BugTrackingSystem-master\BugTrackingSystem\BugTrackingSystem.Model\obj\Debug\BugTrackingSystem.Model.csprojResolveAssemblyReference.cache
+C:\Users\erchi\Desktop\BugTrackingSystem-master\BugTrackingSystem\BugTrackingSystem.Model\bin\Debug\BugTrackingSystem.Model.dll
+C:\Users\erchi\Desktop\BugTrackingSystem-master\BugTrackingSystem\BugTrackingSystem.Model\bin\Debug\BugTrackingSystem.Model.pdb
+C:\Users\erchi\Desktop\BugTrackingSystem-master\BugTrackingSystem\BugTrackingSystem.Model\obj\Debug\BugTrackingSystem.Model.dll
+C:\Users\erchi\Desktop\BugTrackingSystem-master\BugTrackingSystem\BugTrackingSystem.Model\obj\Debug\BugTrackingSystem.Model.pdb
